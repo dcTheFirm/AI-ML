@@ -33,6 +33,3 @@ This project implements the **K-Nearest Neighbors (KNN) algorithm** to classify 
 ✔ **Feature scaling improves KNN performance** by normalizing input values.  
 ✔ **Optimal K selection** ensures better classification accuracy 🎯.  
 ✔ **Confusion Matrix** helps analyze misclassifications effectively.  
-
-## 🎭 Conclusion  
-🔮 KNN is a **
